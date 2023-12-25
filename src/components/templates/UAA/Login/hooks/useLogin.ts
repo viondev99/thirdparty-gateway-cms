@@ -13,7 +13,7 @@ import { useState } from 'react'
 import { API_SCHEMA } from '@/config/baseUrl'
 
 const {
-  publicRuntimeConfig: { LOGIN_PATH_URL },
+  // publicRuntimeConfig: { LOGIN_PATH_URL },
 } = getConfig()
 
 export const loginAxios = (data: any) => {
@@ -81,7 +81,7 @@ export const useLogin = () => {
   const logoutAccount = async () => {
     // await logoutApiFunc()
     removeCmsToken()
-    window.location.href = LOGIN_PATH_URL ?? '/login'
+    // window.location.href = LOGIN_PATH_URL ?? '/login'
   }
   return { loginAccount, logoutAccount, loading, getAccountInfo }
 }
