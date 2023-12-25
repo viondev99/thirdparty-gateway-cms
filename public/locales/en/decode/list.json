@@ -1,0 +1,25 @@
+{
+  "decode_list": "Decode Management",
+  "add_new": "Add New",
+  "searchByFilter": "Search by Filter",
+  "searchResult": "Search Result",
+  "search": "Search",
+  "type": "Type",
+  "table": {
+    "no": "No",
+    "code": "Code",
+    "thirdPartyType": "Type",
+    "thirdParty": "Third Party",
+    "description": "Description",
+    "createdAt": "Created At",
+    "createdBy": "Created By",
+    "status": "Status",
+    "action": "Action"
+  },
+  "publishTitle": "CONFIRMATION",
+  "confirmPublish": "Are you sure want to publish this record?",
+  "success": "Record has been publish successfully",
+  "no": "No",
+  "yes": "Yes"
+}
+  

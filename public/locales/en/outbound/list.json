@@ -1,0 +1,25 @@
+{
+  "outboundManagement": "Outbound Third Party Authen Config",
+  "addNew": "Add New",
+  "search": "Search",
+  "searchByFilter": "Search by Filter",
+  "authentication_code": "Authentication Code",
+  "searchResult": "Search Result",
+  "table": {
+    "no": "No",
+    "type": "Type",
+    "thirdParty": "Third Party",
+    "authentication_code": "Authentication Code",
+    "description": "Description",
+    "effectiveDate": "Effective Date",
+    "expirationDate": "Expiration Date",
+    "basicAuth": "Basic Auth",
+    "bearerAuth": "Bearer Auth",
+    "outboundAuth": "Oauth2",
+    "authType": "Authen Type",
+    "status": "Status",
+    "action": "Action"
+  },
+  "active": "Active",
+  "inactive": "Inactive"
+}

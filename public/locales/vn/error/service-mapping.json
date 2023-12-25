@@ -1,0 +1,10 @@
+{
+    "title": "Service Error Mapping",
+    "table": {
+        "service": "Service",
+        "totalErrorCode": "Số mã lỗi",
+        "action": "Action"
+    },
+    "errorCodeSelected": "Danh sách mã lỗi đã chọn",
+    "errorCodeNeedSelect": "Danh sách mã lỗi muốn chọn"
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Client mapping",
+    "internal": "Internal",
+    "client": "Client",
+    "totalErrorCode": "Number of error code",
+    "system": "System",
+    "core": "Core",
+    "errorCodeInternal": "Error code internal",
+    "errorCodeClient": "Error code client",
+    "placeholder": {
+        "errorCodeInternal": "Search by error code internal",
+        "errorCodeClient": "Search by error code client"
+
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Service mapping",
+    "table": {
+        "service": "Service",
+        "totalErrorCode": "Number of Error code",
+        "action": "Action"
+    },
+    "errorCodeSelected": "List of selected error code",
+    "errorCodeNeedSelect": "List of error code you want to choose",
+    "placeholder": {
+        "search": "Search by Error Code, Error Name",
+        "searchService": "Search by service"
+    }
+}

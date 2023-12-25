@@ -1,0 +1,10 @@
+{
+    "title": "System Management",
+   "code": "System Code",
+   "name": "System Name",
+   "type": "System Type",
+   "registerSystem": "Register System",
+   "placeholder": {
+    "search": "Search by System Code, System Name"
+   }
+}

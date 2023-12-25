@@ -1,0 +1,14 @@
+{
+  "title": "Quản lý thuộc tính",
+  "search": "Search by Filter",
+
+  "table" : {
+    "no" : "STT",
+    "code": "Mã thuộc tính",
+    "name": "Tên thuộc tính",
+    "group": "Nhóm thuộc tính",
+    "type" :"Kiểu dữ liệu",
+    "status": "Status",
+    "action": "Action"
+  }
+}

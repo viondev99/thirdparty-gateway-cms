@@ -1,0 +1,14 @@
+{
+  "title": "Quản lý nhóm thuộc tính",
+  "search": "Search by Filter",
+
+  "table" : {
+    "no" : "STT",
+    "code": "Mã nhóm thuộc tính",
+    "name": "Tên nhóm thuộc tính",
+    "priority": "Số thứ tự ưu tiên",
+    "description" :"Mô tả",
+    "status": "Trạng thái",
+    "action": "Hành động"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "detail": "Detail Decode Management",
+    "status": "Status",
+    "back": "Back",
+    "table": {
+        "no": "No",
+        "internalValue": "Internal Value",
+        "externalValue": "External Value",
+        "status": "status"
+    }
+}

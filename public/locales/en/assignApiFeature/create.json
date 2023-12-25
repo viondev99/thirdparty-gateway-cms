@@ -1,0 +1,11 @@
+{
+  "addNew": "Add New Assign Api's Feature For Internal System",
+  "save": "Save",
+  "success": "Record has been create successfully",
+  "status": "Status",
+  "cancel": "Cancel",
+  "changeApiFeatureTitle": "Confirmation",
+  "confirmChangeApiFeature": "Are you sure you want to reselect the data. The information entered may be changed",
+  "yes": "Yes",
+  "no": "No"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Attribute Group Management",
+  "search": "Search by Filter",
+"placeholder": {
+"search": "Search by attribute group code, attribute group name"
+},
+  "table" : {
+    "no" : "No",
+    "code": "Attribute Group Code",
+    "name": "Attribute Group Name",
+    "priority": "Priority number",
+    "description" :"Description",
+    "status": "Status",
+    "action": "Action"
+  }
+}

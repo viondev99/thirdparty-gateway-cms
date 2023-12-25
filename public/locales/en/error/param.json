@@ -1,0 +1,18 @@
+{
+  "title": "Param Management",
+  "search": "Search by Filter",
+  "placeholder": {
+    "search": "Search by parameter name"
+  },
+  "table" : {
+    "no" : "No",
+    "name": "Parameter Name",
+    "typeParam": "Parameter type",
+    "dataType": "Datatype",
+    "description": "Description",
+    "status" :"Status",
+    "action": "Action",
+    "templateCode": "Template Code",
+    "templateType": "Template Type"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "title_header": "Format Management",
+    "code": "Code",
+    "value": "Value",
+    "description": "Description",
+    "created_at": "Created At",
+    "created_by": "Created By",
+    "status": "Status",
+    "action": "Action",
+    "success": "Record has been {{field}} successfully",
+    "add_new": "Add New Format",
+    "edit": "Edit Format",
+    "detail": "Detail Format"
+}

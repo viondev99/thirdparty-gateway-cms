@@ -1,0 +1,23 @@
+{
+    "thirdPartyManagement": "Third Party API Management",
+    "addNew": "Add New",
+    "searchByFilter": "Search by Filter",
+    "searchResult": "Search Result",
+    "search": "Search",
+    "table": {
+      "no": "No",
+      "type": "Type",
+      "thirdParty": "Third Party",
+      "name": "Third Party's API",
+      "service" : "Service",
+      "apiFeature": "API's Feature",
+      "descriptionURL": "Description",
+      "method": "Method",
+      "endpoint": "Endpoint",
+      "description": "Description",
+      "created_at": "Created At",
+      "created_by": "Created By",
+      "status": "Status",
+      "action": "Action"
+    }
+  }

@@ -1,0 +1,20 @@
+type Feature = {
+  message?: string
+  traceId?: string
+  data?: object
+}
+
+export type Response = {
+  PUT: Feature
+}
+
+export type RequestBody = {
+  PUT: {
+    id: number,
+    internalServiceId?: any
+    systemType?: any,
+    status?: any
+    modelApiId?: any,
+    description?: string,
+  }
+}

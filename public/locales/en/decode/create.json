@@ -1,0 +1,15 @@
+{
+  "addNew": "Add New Decode",
+  "save": "Save",
+  "success": "Record has been create successfully",
+  "status": "Status",
+  "cancel": "Cancel",
+  "add_config": "Add Decode Config Detail",
+  "table": {
+    "no": "No",
+    "internalValue": "Internal Value",
+    "externalValue": "External Value",
+    "status": "Status",
+    "action": "Action"
+  }
+}

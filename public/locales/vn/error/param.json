@@ -1,0 +1,13 @@
+{
+  "title": "Quản lý param",
+  "search": "Search by Filter",
+
+  "table" : {
+    "no" : "STT",
+    "name": "Tên param",
+    "typeParam": "Kiểu param",
+    "description": "Description",
+    "status" :"Trạng thái",
+    "action": "Action"
+  }
+}

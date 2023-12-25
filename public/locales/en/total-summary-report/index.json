@@ -1,0 +1,16 @@
+{
+    "title_header": "Summary Report",
+    "search_result": "Search Result",
+    "type": "Type",
+    "third_party": "Third Party",
+    "service": "Service",
+    "internal_system": "Internal System",
+    "total_request": "Total Request",
+    "response_average_time": "Response Average Time",
+    "export_excel": "Export Excel",
+    "response_time": "Response Time",
+    "total_request_success": "Total Request Success",
+    "error_code": "Error Code",
+    "message": "Message",
+    "created_at": "Created At"
+}

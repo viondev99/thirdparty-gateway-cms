@@ -1,0 +1,7 @@
+{
+    "title": "CONFIRMATION",
+    "yes": "Yes",
+    "confirm": "Are you sure want to delete this record?",
+    "no": "No",
+    "success" : "Record has been delete successfully"
+  }

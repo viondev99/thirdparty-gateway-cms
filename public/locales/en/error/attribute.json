@@ -1,0 +1,20 @@
+{
+  "title": "Attribute Management",
+  "search": "Search by Filter",
+  "no" : "No",
+  "code": "Attribute Code",
+  "name": "Attribute Name",
+  "attributeGroup": "Attribute Group",
+  "description" :"Description",
+  "datatypes": "Datatypes",
+  "display": "Display",
+  "type": "Attribute type",
+  "value": "Value",
+  "keyValue": "Key value",
+  "displayName": "Display name",
+  "status": "Status",
+  "action": "Action",
+  "placeholder": {
+    "search": "Search by attribute code, attribute name"
+  }
+}

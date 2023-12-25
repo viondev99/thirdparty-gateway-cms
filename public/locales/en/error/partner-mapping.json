@@ -1,0 +1,17 @@
+{
+    "title": "Partner mapping",
+    "internal": "Internal",
+    "partner": "Partner",
+    "totalErrorCode": "Number of error code",
+    "system": "System",
+    "core": "Core",
+    "errorCodeSource": "Error code source",
+    "errorCodeDestination": "Error code destination",
+    "errorCodeInternal": "Error code internal",
+    "errorCodePartner": "Error code partner",
+    "placeholder": {
+        "errorCodeInternal": "Search by error code internal",
+        "errorCodePartner": "Search by error code partner"
+
+    }
+}

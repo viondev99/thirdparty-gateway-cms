@@ -1,0 +1,25 @@
+{
+    "title_header": "Format Management",
+    "search_by_filter": "Search by Filter",
+    "code": "Code",
+    "status": "Status",
+    "search_result": "Search Result",
+    "active": "Active",
+    "inactive": "Inactive",
+    "add_new": "Add New",
+    "table": {
+        "code": "Code",
+        "value": "Value",
+        "description": "Description",
+        "created_at": "Created At",
+        "created_by": "Created By",
+        "status": "Status",
+        "action": "Action",
+        "no": "No"
+    },
+    "publishTitle": "CONFIRMATION",
+    "confirmPublish": "Are you sure want to publish this record?",
+    "success": "Record has been publish successfully",
+    "no": "No",
+    "yes": "Yes"
+}

@@ -1,0 +1,19 @@
+{
+    "title": "View Detail",
+    "table": {
+        "no": "No",
+        "rowId": "RowId",
+        "tableName": "Table Name",
+        "actionType": "Action Type",
+        "oldValue": "Old Value",
+        "newValue": "New Value",
+        "action": "Action",
+        "compare": "Compare"
+    },
+    "oldValue": "Old Value",
+    "newValue": "New Value",
+    "showDifferent": "Show Different",
+    "hideDifferent": "Cancel Show Different",
+    "cancel": "Cancel",
+    "noDifferrent": "There is no difference"
+}

@@ -1,0 +1,19 @@
+{
+    "createThirdParty": "Add New Third Party's API",
+    "addNew": "Add New",
+    "searchByFilter": "Search by Filter",
+    "searchResult": "Search Result",
+    "search": "Search",
+    "save": "Save",
+    "success": "Record has been create successfully",
+    "status": "Status",
+    "information": "Third Party Information",
+    "response": "Response",
+    "request": "Request",
+    "changeApiFeatureTitle": "Confirmation",
+    "confirmChangeApiFeature": "Are you sure you want to reselect the data. The information entered may be changed",
+    "yes" : "Yes",
+    "no" : "No",
+    "cancel": "Cancel",
+    "is_bccsgw": "Is BCCSGW"
+  }

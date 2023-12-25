@@ -1,0 +1,11 @@
+{
+    "title": "Service Management",
+   "code": "Service Code",
+   "name": "Service Name",
+   "type": "Service Type",
+   "urlReference":"Url Reference",
+   "registerService": "Register Service",
+   "placeholder": {
+    "search": "Search by Service Code, Service Name"
+   }
+}

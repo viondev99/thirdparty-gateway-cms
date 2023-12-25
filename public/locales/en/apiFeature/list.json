@@ -1,0 +1,23 @@
+{
+  "apiFeatureManagement": "API's Feature Management",
+  "addNew": "Add New",
+  "searchByFilter": "Search by Filter",
+  "searchResult": "Search Result",
+  "yes": "Yes",
+  "no": "No",
+  "table": {
+    "no": "No",
+    "apiFeature": "API's Feature",
+    "system": "Internal System",
+    "description": "Description",
+    "createdAt": "Created At",
+    "createdBy": "Created By",
+    "status": "Status",
+    "action": "Action"
+  },
+  "publishTitle": "CONFIRMATION",
+  "confirmPublish": "Are you sure want to publish this record?",
+  "deleteTitle": "Confirm Delete API's Fearure",
+  "confirmDelete" : "Are you sure want to delete this record?",
+  "success": "Record has been publish successfully."
+}

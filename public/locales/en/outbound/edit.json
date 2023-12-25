@@ -1,0 +1,9 @@
+{
+  "editOutboundTitle": "Edit Outbound Third Party Authen Config",
+  "save": "Save",
+  "success": "Record has been edit successfully",
+  "status": "Status",
+  "authentication": "Authentication",
+  "ruleConfig": "Rule Config",
+  "cancel": "Cancel"
+}

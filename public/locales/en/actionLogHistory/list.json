@@ -1,0 +1,17 @@
+{
+    "title_list": "Action Log History",
+    "searchByFilter": "Search by Filter",
+    "search": "Search",
+    "searchResult": "Search Result",
+    "table": {
+        "no": "No",
+        "module": "Module",
+        "actionType": "Action Type",
+        "actionUser": "Action User",
+        "actionDate": "Action Date",
+        "clientIp": "Client Ip",
+        "serverIp": "Server Ip",
+        "description": "Description",
+        "action": "Action"
+    }
+}

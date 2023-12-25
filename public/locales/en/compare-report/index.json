@@ -1,0 +1,12 @@
+{
+    "title_header": "Summary Compare Request Report",
+    "time_report": "Time Report",
+    "time_compare": "Time Compare",
+    "total_request": "Total Request",
+    "total_request_success": "Total Request Success",
+    "response_average_time": "Response Average Time (ms)",
+    "search_result": "Search Result",
+    "message": "Message",
+    "export_excel": "Export Excel",
+    "created_at": "Created At"
+}

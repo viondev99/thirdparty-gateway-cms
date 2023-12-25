@@ -1,0 +1,7 @@
+{
+    "success": "Record has been delete successfully",
+    "deleteTitle": "CONFIRMATION",
+    "confirmDelete": "Are you sure want to delete this record?",
+    "yes": "Yes",
+    "no": "No"
+}

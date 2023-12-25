@@ -1,0 +1,10 @@
+{
+    "title": "Error Code management",
+    "code": "Error Code",
+    "name": "Error Name",
+    "description": "Description",
+    "solution": "Solution",
+    "placeholder": {
+        "search": "Search by error code"
+    }
+}

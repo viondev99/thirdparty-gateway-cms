@@ -1,0 +1,17 @@
+{
+  "assign_apis_feature_list": "Assign Api's Feature For Internal System",
+  "add_new": "Add New",
+  "searchByFilter": "Search by Filter",
+  "searchResult": "Search Result",
+  "search": "Search",
+  "table": {
+    "no": "No",
+    "apiFeature": "API's Feature",
+    "system": "Internal System",
+    "description": "Description",
+    "createdAt": "Created At",
+    "createdBy": "Created By",
+    "status": "Status",
+    "action": "Action"
+  }
+}

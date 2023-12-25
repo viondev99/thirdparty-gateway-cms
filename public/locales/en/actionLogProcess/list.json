@@ -1,0 +1,20 @@
+{
+    "title_list": "Action Log Process",
+    "add_new": "Add New",
+    "searchByFilter": "Search by Filter",
+    "search": "Search",
+    "searchResult": "Search Result",
+    "table": {
+        "no": "No",
+        "requestId": "RequestId",
+        "type": "type",
+        "thirdParty": "Third Party",
+        "service": "Service",
+        "feature": "API's Feature",
+        "errCode": "Error Code",
+        "description": "Description",
+        "requestTime": "Request Time",
+        "responseTime": "Response Time",
+        "action": "Action"
+    }
+}
