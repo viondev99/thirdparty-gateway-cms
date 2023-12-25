@@ -27,7 +27,7 @@ const {
   API_3RD_SCHEMA,
   API_3RD_MDM_SCHEMA,
   API_3RD_PARTNER_INFO_SCHEMA,
-  LOGIN_PATH,
+  // LOGIN_PATH,
 } = API_SCHEMA
 
 const AUTH_COMMON_URL = `https://${API_COMMON_SCHEMA}`
@@ -41,7 +41,7 @@ export const AUTH_3RD_URL = `http://${API_3RD_SCHEMA}`
 const API_3RD_MDM_URL = `http://${API_3RD_MDM_SCHEMA}`
 const API_3RD_PARTNER_INFO_URL = `http://${API_3RD_PARTNER_INFO_SCHEMA}`
 
-const LOGIN_PATH_URL = `http://${LOGIN_PATH}`
+// const LOGIN_PATH_URL = `http://${LOGIN_PATH}`
 
 const AUTH_BASE_URL = configs().UAA_BASE
 const API_UAA_REFRESH_TOKEN = '/oauth/login'
@@ -76,7 +76,7 @@ export const logoutFunc = async () => {
   // await logoutApiFunc()
   localStorage.clear()
   sessionStorage.clear()
-  window.location.replace(LOGIN_PATH_URL ?? '/login')
+  // window.location.replace(LOGIN_PATH_URL ?? '/login')
   removeCmsToken()
 }
 
@@ -176,7 +176,7 @@ export const middlewareResponseError = (error: any) => {
           return axios(originalRequest)
         })
         .catch((error: any) => {
-          logoutFunc()
+          // logoutFunc()
           return Promise.reject(error)
         })
         .finally(() => {

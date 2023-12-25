@@ -27,7 +27,7 @@ function MyApp({ Component, pageProps }: AppPropsWithLayout) {
       (!access_token ||
         (!access_token?.accessToken && router.asPath !== '/login'))
     ) {
-      logoutFunc()
+      // logoutFunc()
     }
   }, [access_token, router.asPath])
   if (pageProps.err) return <>Error Page</>
